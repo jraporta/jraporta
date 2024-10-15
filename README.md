@@ -1,16 +1,16 @@
-## Hi there 👋, I'm Marta!
+## Hi there 👋, I'm JuanRa!
 
 
 
 - 🌱 I’m currently learning Java & Spring Framework at @IT-Academy-BCN.
-- :mortar_board: I have a PhD in Linguistics.
-- 💬 I speak English, Catalan, Spanish, French and Italian. Currently learning German.
-- :alien: Fun fact: I'm a part-time pole dance instructor.
+- :mortar_board: Industrial engineer open to new challenges.
+- 💬 I speak English, Catalan, Spanish, French and German.
+- :alien: Fun fact: I can ride a unicyle.
 
 **How to reach me:**
 
-[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/martapunsola/)](https://www.linkedin.com/in/martapunsola/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c71610?style=flat&logo=Gmail&logoColor=white&link=mailto:marta.punsola@gmail.com)](mailto:marta.punsola@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juan-ramon-porta/)](https://www.linkedin.com/in/juan-ramon-porta/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c71610?style=flat&logo=Gmail&logoColor=white&link=mailto:jraporta@gmail.com)](mailto:jraporta@gmail.com)
 
 **When I code, I rely on:**
 
