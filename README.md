@@ -2,7 +2,7 @@
 
 
 
-- 🌱 I’m currently learning Java & Spring Framework at @IT-Academy-BCN.
+- 🌱 Just completed my Java & Spring Framework Bootcamp at @IT-Academy-BCN.
 - :mortar_board: Industrial engineer open to new challenges.
 - 💬 I speak English, Catalan, Spanish, French and German.
 - :alien: Fun fact: I can ride a unicyle.
@@ -11,8 +11,9 @@
 
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juan-ramon-porta/)](https://www.linkedin.com/in/juan-ramon-porta/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c71610?style=flat&logo=Gmail&logoColor=white&link=mailto:jraporta@gmail.com)](mailto:jraporta@gmail.com)
+[![GitHub](https://img.shields.io/badge/Follow-fafcff.svg?style=flat&logo=github&logoColor=black)](https://github.com/jraporta)
 
-**When I code, I rely on:**
+**My skills:**
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue)
@@ -31,7 +32,14 @@
 ![Hamcrest](https://img.shields.io/badge/-Hamcrest-red?logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-blue?style=flat&logo=docker&logoColor=white)
 
+**GitHub Stats:**
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jraporta&show_icons=true&theme=blue-green)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jraporta&layout=compact&theme=blue-green)
 
 
 
